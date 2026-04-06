@@ -46,12 +46,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0020-valid-parentheses) |
 | [0657-robot-return-to-origin](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [3340-check-balanced-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/3340-check-balanced-string) |
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0020-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Simulation
 |  |
