@@ -54,9 +54,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0155-min-stack) |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## Simulation
 |  |
 | ------- |
 | [0657-robot-return-to-origin](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0657-robot-return-to-origin/) | Easy |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
