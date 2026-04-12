@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0040-combination-sum-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0055-jump-game/) | Medium |
@@ -90,4 +91,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0024-swap-nodes-in-pairs) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
