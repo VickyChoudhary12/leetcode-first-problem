@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0860-lemonade-change/) | Easy |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0079-word-search) |
 | [0657-robot-return-to-origin](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [3340-check-balanced-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/3340-check-balanced-string) |
 ## Stack
 | Problem Name | Difficulty |
