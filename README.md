@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0860-lemonade-change/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
+| [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0001-two-sum/) | Easy |
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
+| [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0079-word-search](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0079-word-search) |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 <!---LeetCode Topics End-->
