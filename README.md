@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0057-insert-interval/) | Medium |
 | [0079-word-search](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0079-word-search) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0135-candy](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0135-candy/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0455-assign-cookies) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0055-jump-game/) | Medium |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## String
