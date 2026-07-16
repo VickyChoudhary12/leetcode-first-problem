@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0135-candy/) | Hard |
+| [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0056-merge-intervals/) | Medium |
+| [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0455-assign-cookies) |
 ## Dynamic Programming
@@ -93,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
 | [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 ## Monotonic Stack
