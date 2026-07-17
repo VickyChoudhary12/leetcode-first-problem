@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0135-candy/) | Hard |
+| [0152-maximum-product-subarray](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0152-maximum-product-subarray) |
 | [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0055-jump-game/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0152-maximum-product-subarray](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0152-maximum-product-subarray) |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 ## String
