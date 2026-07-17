@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0045-jump-game-ii/) | Medium |
@@ -148,5 +149,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
