@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0057-insert-interval/) | Medium |
 | [0079-word-search](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0079-word-search) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0135-candy/) | Hard |
@@ -150,5 +151,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0033-search-in-rotated-sorted-array) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 <!---LeetCode Topics End-->
