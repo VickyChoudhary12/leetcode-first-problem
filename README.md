@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0135-candy](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0135-candy/) | Hard |
 | [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0238-product-of-array-except-self) |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0455-assign-cookies](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0238-product-of-array-except-self) |
 | [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 ## Sliding Window
 |  |
