@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0001-two-sum/) | Easy |
+| [0015-3sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0015-3sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0033-search-in-rotated-sorted-array) |
 | [0040-combination-sum-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0042-trapping-rain-water) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0015-3sum) |
 | [0042-trapping-rain-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0042-trapping-rain-water) |
 | [0455-assign-cookies](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0455-assign-cookies) |
 ## Greedy
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0056-merge-intervals/) | Medium |
 | [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
 | [0435-non-overlapping-intervals](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0435-non-overlapping-intervals/) | Medium |
