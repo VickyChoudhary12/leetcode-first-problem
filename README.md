@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0001-two-sum/) | Easy |
+| [0011-container-with-most-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0018-4sum) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0016-3sum-closest) |
 | [0018-4sum](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0018-4sum) |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0055-jump-game/) | Medium |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
