@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0007-reverse-integer) |
+| [3875-construct-uniform-parity-array-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Array
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0860-lemonade-change/) | Easy |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/3875-construct-uniform-parity-array-i) |
 ## Two Pointers
 |  |
 | ------- |
