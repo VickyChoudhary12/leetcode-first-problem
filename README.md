@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0503-next-greater-element-ii) |
 | [0860-lemonade-change](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0860-lemonade-change/) | Easy |
+| [1748-sum-of-unique-elements](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/1748-sum-of-unique-elements) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
 | [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 | [3875-construct-uniform-parity-array-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/3875-construct-uniform-parity-array-i) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0217-contains-duplicate](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0496-next-greater-element-i) |
+| [1748-sum-of-unique-elements](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/1748-sum-of-unique-elements) |
 | [2615-sum-of-distances](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2615-sum-of-distances/) | Medium |
 ## Monotonic Stack
 |  |
@@ -175,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0177-nth-highest-salary](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0177-nth-highest-salary) |
 | [0178-rank-scores](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0178-rank-scores) |
 | [0180-consecutive-numbers](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0180-consecutive-numbers) |
+## Counting
+|  |
+| ------- |
+| [1748-sum-of-unique-elements](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/1748-sum-of-unique-elements) |
 <!---LeetCode Topics End-->
