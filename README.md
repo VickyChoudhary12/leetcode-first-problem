@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0344-reverse-string) |
+| [0443-string-compression](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0344-reverse-string) |
 | [0402-remove-k-digits](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0402-remove-k-digits/) | Medium |
+| [0443-string-compression](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/master/0443-string-compression) |
 | [0657-robot-return-to-origin](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/VickyChoudhary12/leetcode-first-problem/tree/main/2515-shortest-distance-to-target-string-in-a-circular-array/) | Easy |
